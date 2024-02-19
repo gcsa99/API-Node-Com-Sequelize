@@ -1,1 +1,1 @@
-Api criada para estuddo utilizando node.js e ORM Sequelize
+Api criada para estudo utilizando node.js e ORM Sequelize
